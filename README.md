@@ -45,4 +45,8 @@ To locally build and test the site, run the following from the command line:
 ```bash
 mkdocs serve
 ```
-pip install mkdocs-material
+
+If that doesn't work (mkdocs isn't in the Path, which happens sometimes on Windows), try this:
+```bash
+python -m mkdocs build
+```
