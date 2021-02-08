@@ -26,12 +26,13 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 
 **You should be able to identify actors, use cases, and relationships** for use within use case diagrams.
 
-1. Explain what an _**actor**_ is and be able to identify a set of actors within an outlined case or business process.
-2. You ought to be able to extract multiple _**use cases**_ while effectively turning them into tasks. after reading through a case or business process.
-3. Identify _**relationships**_ between actors and specific tasks and understand the four different types of relationships.
-    1. Understand when to utilize a  _**association**_ relationship
-    2. Understand when to utilize a  _**generalization**_ relationship
-    3. Understand the differences between an _**include**_ and  _**extend**_ as well as when to use either relationship.
+- [ ] Explain what an _**actor**_ is and be able to identify a set of actors within an outlined case or business process.
+- [ ] You ought to be able to extract multiple _**use cases**_ while effectively turning them into tasks. after reading through a case or business process.
+- [ ] Identify _**relationships**_ between actors and specific tasks and understand the four different types of relationships.
+
+1. Understand when to utilize a  _**association**_ relationship
+2. Understand when to utilize a  _**generalization**_ relationship
+3. Understand the differences between an _**include**_ and  _**extend**_ as well as when to use either relationship.
 
 ## Resources
 

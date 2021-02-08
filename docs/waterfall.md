@@ -13,10 +13,10 @@ Before the conclusion of the <abbr title = "Agile, Processes, and Automation"> A
 
 **You should be have an understanding of the waterfall development methodology** and understand when it is best to apply it over other potential development methodologies.
 
-1. Explain the _**seven phases of waterfall**_.
-2. Understand the _**benefits**_ and _**disadvantages**_ of utilizing waterfall over agile.
-3. Be able to _**determine if your project would be best served**_ using the methodology.
-4. Recognize the _**history**_ of the methodology.
+- [ ] Explain the _**seven phases of waterfall**_.
+- [ ] Understand the _**benefits**_ and _**disadvantages**_ of utilizing waterfall over agile.
+- [ ] Be able to _**determine if your project would be best served**_ using the methodology.
+- [ ] Recognize the _**history**_ of the methodology.
 
 ##Components Explained
 

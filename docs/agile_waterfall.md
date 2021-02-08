@@ -16,9 +16,9 @@ If you have yet to read up on these two methodologies please navigate to the fol
 
 **You should be able to leverage your knowledge of both agile and waterfall in order to make informed project planning decisions** that will benefit you throughout your studies and career.
 
-1. Recognize the _**key components**_ related to the two methodologies.
-2. Understand the _**advantages**_ and _**disadvantages**_ associated with each methodology
-3. Be able to _**determine which methodology**_ will best serve an outlined project.
+- [ ] Recognize the _**key components**_ related to the two methodologies.
+- [ ] Understand the _**advantages**_ and _**disadvantages**_ associated with each methodology
+- [ ] Be able to _**determine which methodology**_ will best serve an outlined project.
 
 ## Resources
 

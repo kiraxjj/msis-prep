@@ -21,10 +21,10 @@ As part of the D&S module in the MSIS program, you will be using HTML & CSS to d
 
 Before entering the MSIS program, you should be able to do the following:
 
-1. Understand the need for prototyping in web application development.
-2. Create the basic structure of an HTML page and demonstrate the use of important tags.
-3. Define the three types of CSS selectors.
-4. Make stylistic changes to your page by using a separate CSS file.
+- [ ] Understand the need for prototyping in web application development.
+- [ ] Create the basic structure of an HTML page and demonstrate the use of important tags.
+- [ ] Define the three types of CSS selectors.
+- [ ] Make stylistic changes to your page by using a separate CSS file.
 
 
 

@@ -21,10 +21,10 @@ A basic understanding of statistics will be helpful in a number of courses in th
 
 Before entering the MSIS program, you should be able to do the following:
 
-1. Compare and contrast important measures of central tendency and dispersion.
-2. For a given population sample, calculate mean, median, mode, standard deviation, and variance.
-3. Define linear regression and its uses and limitations
-4. Calculate a regression line showing the relationship between two variables.
+- [ ] Compare and contrast important measures of central tendency and dispersion.
+- [ ] For a given population sample, calculate mean, median, mode, standard deviation, and variance.
+- [ ] Define linear regression and its uses and limitations
+- [ ] Calculate a regression line showing the relationship between two variables.
 
 !!! note "Nice to have"
     * Be able to build regression equations given multiple independent variables.

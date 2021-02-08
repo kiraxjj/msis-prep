@@ -17,11 +17,11 @@ As part of the MSIS program you will design data-driven applications, and pull d
 ## Major Concepts
 
 Before entering the MSIS program, you should be able to do the following:
-1. Build a correct relational data model and express it as an ER or logical diagram.
-2. Explain the difference between _**data**_, information, and knowledge.
-3. Explain the difference between _**structured**_ and _**unstructured**_ data.
-4. _**Normalize**_ a data model using at least First Normal Form thru Third Normal Form, and BCNF.
-5. Model your data using ERD and logical diagrams
+- [ ] Build a correct relational data model and express it as an ER or logical diagram.
+- [ ] Explain the difference between _**data**_, information, and knowledge.
+- [ ] Explain the difference between _**structured**_ and _**unstructured**_ data.
+- [ ] _**Normalize**_ a data model using at least First Normal Form thru Third Normal Form, and BCNF.
+- [ ] Model your data using ERD and logical diagrams
 
 *[BCNF]: Boyce-Codd Normal Form
 *[ERD]: Entity–Relationship Diagram

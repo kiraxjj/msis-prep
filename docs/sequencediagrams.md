@@ -26,13 +26,13 @@ You are encouraged to practice with Microsoft Visio as this is primarily used th
 
 **You should be able to construct sequence diagrams** by utilizing the **key components** outlined below. The knowledge throughout the section will build upon that outlined within the _Use Case Diagram_ module.
 
-1. Explain the three different _**classes**_ that make up a sequence diagram.
-2. Understand the role _**actors**_ play within a sequence diagram (refer back to the _Use Case Diagram_ module!).
-3. Know where a _**lifeline**_ is used.
-4. Understand the basic flow of messages using _**execution occurrence**_.
-5. Describe a _**kill**_, and understand when it is to be used within your diagrams.
-6. Explain the different types of _**communication**_ methods within a sequence diagram.
-7. Understand how to build _**loops**_ and be able to determine when they are best used within your final diagrams.
+- [ ] Explain the three different _**classes**_ that make up a sequence diagram.
+- [ ] Understand the role _**actors**_ play within a sequence diagram (refer back to the _Use Case Diagram_ module!).
+- [ ] Know where a _**lifeline**_ is used.
+- [ ] Understand the basic flow of messages using _**execution occurrence**_.
+- [ ] Describe a _**kill**_, and understand when it is to be used within your diagrams.
+- [ ] Explain the different types of _**communication**_ methods within a sequence diagram.
+- [ ] Understand how to build _**loops**_ and be able to determine when they are best used within your final diagrams.
 
 
 ## Components Explained
