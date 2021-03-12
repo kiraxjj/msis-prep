@@ -26,6 +26,7 @@ nav:
       - 'IT Controls' : 'it_controls.md'
       - 'ERP - ERP Intro' : 'ERP.md'
       - 'ERP - Business Cycles' : 'business_cycles.md'
+      - 'Network Model' : 'Network Model.md'
 
 extra_css:
   - "css/styles.css"
